@@ -1,0 +1,6 @@
+greedy algorithm
+
+greedy algorithm repeatedly makes locally best choice/decision 
+they are often intuitive, easy to understand and easy to implement 
+however the probelm is that in many situations we can not solve a problem using greedy approach 
+greedy solution is not necessarily best 
